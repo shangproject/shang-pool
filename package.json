@@ -1,0 +1,24 @@
+{
+    "name": "cryptonote-shangpool",
+    "version": "1.0.1",
+    "license": "GPL-2.0",
+    "description": "High performance Node.js (with native C addons) mining pool for Cryptonote based coins",
+    "authors": "shang <shangyin509@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shangproject/shang-pool.git"
+    },
+    "dependencies": {
+        "bignum": "*",
+        "async": "1",
+        "redis": "*",
+        "cli-color": "*",
+        "dateformat": "*",
+        "base58-native": "*",
+        "multi-hashing": "git://github.com/fancoder/node-multi-hashing.git",
+        "cryptonote-util": "git://github.com/forknote/node-cryptonote-util.git"
+    },
+    "engines": {
+        "node": ">=0.10"
+    }
+}
