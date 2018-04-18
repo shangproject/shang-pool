@@ -1,0 +1,8 @@
+2018-04-12 09:11:52
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+

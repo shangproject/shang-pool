@@ -1,0 +1,321 @@
+2018-04-05 14:52:16 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:16 (Thread 1) Could not start pool
+2018-04-05 14:52:17 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:18 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:19 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:20 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:21 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:22 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:23 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:24 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:25 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:05 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:05 (Thread 1) Could not start pool
+2018-04-05 14:58:06 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:07 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:08 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:09 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:10 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:11 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:12 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:13 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:58:14 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:11 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:11 (Thread 1) Could not start pool
+2018-04-05 14:59:12 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:13 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:14 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:15 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:16 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:17 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:18 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:19 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:20 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:21 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:22 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:23 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:24 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:26 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:27 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:28 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:29 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:30 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:31 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:32 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:33 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:34 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:35 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:36 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:37 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:38 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:39 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:40 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:41 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:42 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:43 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:44 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:45 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:46 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:47 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:48 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:49 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:50 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:52 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:53 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:54 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:55 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:56 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:57 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:58 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:59 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:00 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:01 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:02 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:03 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:04 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:05 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:06 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:07 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:08 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:09 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:10 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:11 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:12 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:13 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:14 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:15 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:16 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:17 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:18 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:19 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:20 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:21 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:22 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:23 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:24 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:25 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:26 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:27 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:28 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:29 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:30 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:31 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:33 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:34 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:35 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:36 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:37 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:38 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:39 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:40 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:41 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:42 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:43 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:44 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:46 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:47 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:48 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:49 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:50 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:51 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:52 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:53 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:54 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:55 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:56 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:57 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:58 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:00:59 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:01:00 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:01:01 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:01:02 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:01:03 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:01:04 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:03:08 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:03:08 (Thread 1) Could not start pool
+2018-04-05 15:03:09 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:23:16 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:16 (Thread 1) Could not start pool
+2018-04-05 15:23:17 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:19 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:20 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:21 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:22 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:24 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:25 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:26 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:27 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:29 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:30 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:31 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:33 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:34 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:35 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:36 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:37 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:38 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-05 15:23:40 (Thread 1) Error polling getblocktemplate {"code":-9,"message":"Core is busy"}
+2018-04-06 00:13:10 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:10 (Thread 1) Could not start pool
+2018-04-06 00:13:11 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:12 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:13 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:14 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:15 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:16 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:17 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:18 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:19 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:20 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:21 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:22 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:23 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:24 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:25 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:26 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:27 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:28 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:29 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:30 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:31 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:32 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:33 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:34 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:35 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:36 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:37 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:38 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:39 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:40 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:41 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:42 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:43 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:44 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:45 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:46 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:47 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:48 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:49 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:50 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:51 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:52 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:53 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:54 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:55 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:56 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:57 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:58 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:13:59 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:00 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:01 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:02 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:03 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:04 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:05 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:06 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:07 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:08 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:09 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:10 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:11 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:12 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:13 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:14 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:15 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:16 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:17 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:18 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:19 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:20 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:21 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:22 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:23 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 00:14:24 (Thread 1) Error polling getblocktemplate {"code":-4,"message":"Failed to parse wallet address"}
+2018-04-06 04:15:25 (Thread 1) Error submitting block at height 35169 from SH2uZhsmcmhKHRj4PrjbWXiLE7j4qbZwCXU7hWs9RB5MfhG4747WuSDBRVEvrcfU94DWurYey8pJjRdXqLYap5LN1rme5perm@117.158.218.71, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-06 04:16:01 (Thread 1) Error submitting block at height 35170 from SH2uZhsmcmhKHRj4PrjbWXiLE7j4qbZwCXU7hWs9RB5MfhG4747WuSDBRVEvrcfU94DWurYey8pJjRdXqLYap5LN1rme5perm@117.158.218.71, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-06 05:03:36 (Thread 1) Error submitting block at height 35181 from SH2uZhsmcmhKHRj4PrjbWXiLE7j4qbZwCXU7hWs9RB5MfhG4747WuSDBRVEvrcfU94DWurYey8pJjRdXqLYap5LN1rme5perm@117.158.218.71, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-06 05:05:22 (Thread 1) Error submitting block at height 35184 from SH2uZhsmcmhKHRj4PrjbWXiLE7j4qbZwCXU7hWs9RB5MfhG4747WuSDBRVEvrcfU94DWurYey8pJjRdXqLYap5LN1rme5perm@117.158.218.71, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-06 16:42:14 (Thread 1) Error submitting block at height 35258 from SH3K2H95xm3B8rVExqYX1XakAvh4aJDJYfMP74x8mjKfCH2ZbKzEjiJ6pR1JCL3mZt4Khp48jp5MxUc6Yd4PzC3U1UtAk4zR2@180.246.89.149, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-06 19:00:04 (Thread 1) Error submitting block at height 35302 from SH3K2H95xm3B8rVExqYX1XakAvh4aJDJYfMP74x8mjKfCH2ZbKzEjiJ6pR1JCL3mZt4Khp48jp5MxUc6Yd4PzC3U1UtAk4zR2@180.246.89.149, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-07 00:15:25 (Thread 1) Error submitting block at height 35410 from SH3K2H95xm3B8rVExqYX1XakAvh4aJDJYfMP74x8mjKfCH2ZbKzEjiJ6pR1JCL3mZt4Khp48jp5MxUc6Yd4PzC3U1UtAk4zR2@180.246.89.149, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-10 05:48:13 (Thread 1) Error submitting block at height 38304 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-10 09:18:27 (Thread 1) Error submitting block at height 38457 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-10 17:12:51 (Thread 1) Error submitting block at height 38748 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-10 18:31:12 (Thread 1) Error submitting block at height 38804 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-11 01:04:40 (Thread 1) Error submitting block at height 39080 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-11 17:49:08 (Thread 1) Error submitting block at height 39750 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-11 23:41:07 (Thread 1) Error submitting block at height 39978 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-12 05:34:05 (Thread 1) Error submitting block at height 40218 from SH2ow3SnRSuTQYZr3yLzy53BkC3mdkTXPQhTVbTM2RFz5fRQVwSa9DFF9hijNvCBK8YFJ4oLWNLeMdMjNpxY4gkc2vWGRcsLG@1.249.20.251, share type: "valid" - {"code":-7,"message":"Block not accepted"}
+2018-04-18 04:08:14 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:14 (Thread 1) Could not start pool
+2018-04-18 04:08:15 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:16 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:17 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:18 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:19 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:20 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:21 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:22 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 04:08:23 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:40:50 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:40:50 (Thread 1) Could not start pool
+2018-04-18 06:40:51 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:40:52 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:40:53 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:40:54 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:08 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:08 (Thread 1) Could not start pool
+2018-04-18 06:44:09 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:10 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:11 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:12 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:13 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:14 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:15 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:16 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:17 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:18 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:19 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:20 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:21 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:22 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:23 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:24 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:25 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:26 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:27 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:28 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:29 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:30 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:31 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:32 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:33 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:34 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:35 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:36 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:37 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:38 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:39 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:40 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:41 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:42 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:43 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:44 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:45 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:46 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:47 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:48 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:49 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:50 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:51 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:52 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:53 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:54 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:55 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:56 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:57 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:58 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:44:59 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:45:00 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:45:01 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-18 06:45:02 (Thread 1) Error polling getblocktemplate {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}

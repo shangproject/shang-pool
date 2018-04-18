@@ -1,0 +1,20 @@
+2018-04-05 14:52:15 Error with transfer RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:52:15 Payments failed to send to {"amount":2000000000000,"address":"SFy3WqgAE934as7cx2U1meXtLTb9UsmdQ8tR2r3oXoUgiFn7ENEgs9TE9jGhsLJjZVRADNusTDqNBSve2RFs7kX61Lum38aqw"} { amount: 100000000000,
+  address: 'SFyCfjC5m693cuQpM3zFGfcWFdKTBw8vBKTNfTmANXcDBkeia4YFF3vVRKaKjjohykXofCsyPvqbCeC7L2CfYapo14mtt1SpC' } { amount: 1400000000000,
+  address: 'SFy2WzxpmPhYoqMMBBpVngi3j2aJYx77Niut8UnwmUkDctBieLRh58oSfjVaqMSuX23tKUyF7YF77LXsUUUHyWEk1BzRdW6Ds' }
+2018-04-05 14:57:49 Error with transfer RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:57:49 Payments failed to send to {"amount":2000000000000,"address":"SFy3WqgAE934as7cx2U1meXtLTb9UsmdQ8tR2r3oXoUgiFn7ENEgs9TE9jGhsLJjZVRADNusTDqNBSve2RFs7kX61Lum38aqw"} { amount: 100000000000,
+  address: 'SFyCfjC5m693cuQpM3zFGfcWFdKTBw8vBKTNfTmANXcDBkeia4YFF3vVRKaKjjohykXofCsyPvqbCeC7L2CfYapo14mtt1SpC' } { amount: 1400000000000,
+  address: 'SFy2WzxpmPhYoqMMBBpVngi3j2aJYx77Niut8UnwmUkDctBieLRh58oSfjVaqMSuX23tKUyF7YF77LXsUUUHyWEk1BzRdW6Ds' }
+2018-04-05 14:59:07 Error with transfer RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 14:59:07 Payments failed to send to {"amount":2000000000000,"address":"SFy3WqgAE934as7cx2U1meXtLTb9UsmdQ8tR2r3oXoUgiFn7ENEgs9TE9jGhsLJjZVRADNusTDqNBSve2RFs7kX61Lum38aqw"} { amount: 100000000000,
+  address: 'SFyCfjC5m693cuQpM3zFGfcWFdKTBw8vBKTNfTmANXcDBkeia4YFF3vVRKaKjjohykXofCsyPvqbCeC7L2CfYapo14mtt1SpC' } { amount: 1400000000000,
+  address: 'SFy2WzxpmPhYoqMMBBpVngi3j2aJYx77Niut8UnwmUkDctBieLRh58oSfjVaqMSuX23tKUyF7YF77LXsUUUHyWEk1BzRdW6Ds' }
+2018-04-05 15:03:07 Error with transfer RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:03:07 Payments failed to send to {"amount":2000000000000,"address":"SFy3WqgAE934as7cx2U1meXtLTb9UsmdQ8tR2r3oXoUgiFn7ENEgs9TE9jGhsLJjZVRADNusTDqNBSve2RFs7kX61Lum38aqw"} { amount: 100000000000,
+  address: 'SFyCfjC5m693cuQpM3zFGfcWFdKTBw8vBKTNfTmANXcDBkeia4YFF3vVRKaKjjohykXofCsyPvqbCeC7L2CfYapo14mtt1SpC' } { amount: 1400000000000,
+  address: 'SFy2WzxpmPhYoqMMBBpVngi3j2aJYx77Niut8UnwmUkDctBieLRh58oSfjVaqMSuX23tKUyF7YF77LXsUUUHyWEk1BzRdW6Ds' }
+2018-04-05 15:08:24 Error with transfer RPC request to wallet daemon {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect"}
+2018-04-05 15:08:24 Payments failed to send to {"amount":2000000000000,"address":"SFy3WqgAE934as7cx2U1meXtLTb9UsmdQ8tR2r3oXoUgiFn7ENEgs9TE9jGhsLJjZVRADNusTDqNBSve2RFs7kX61Lum38aqw"} { amount: 100000000000,
+  address: 'SFyCfjC5m693cuQpM3zFGfcWFdKTBw8vBKTNfTmANXcDBkeia4YFF3vVRKaKjjohykXofCsyPvqbCeC7L2CfYapo14mtt1SpC' } { amount: 1400000000000,
+  address: 'SFy2WzxpmPhYoqMMBBpVngi3j2aJYx77Niut8UnwmUkDctBieLRh58oSfjVaqMSuX23tKUyF7YF77LXsUUUHyWEk1BzRdW6Ds' }

@@ -1,0 +1,944 @@
+2018-04-05 14:57:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:57:52
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:57:57
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:58:01
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:58:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:58:10
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.9:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:58:13
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.10:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:09
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:13
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:17
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:22
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:26
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:29
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.9:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.10:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:37
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.11:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:41
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.12:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.13:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:50
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.14:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:53
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.15:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 14:59:57
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.16:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:01
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.17:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.18:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:10
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.19:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:14
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.20:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:17
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.21:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:22
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.22:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:26
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.23:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:30
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.24:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:34
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.25:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:38
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.26:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:42
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.27:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:47
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.28:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:51
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.29:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:00:56
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.30:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:01:01
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.31:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:01:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.32:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:03:03
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:03:09
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:08:23
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:08:28
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:09:11
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:09:16
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:22:57
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:02
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:07
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:12
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:16
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:20
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.9:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:24
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.10:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:28
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.11:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.12:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:37
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.13:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-05 15:23:41
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.14:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 00:15:15
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 00:15:18
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 00:15:20
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 00:15:22
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:02
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:04
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:07
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:36
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:31:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:31:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:42
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:44
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.7:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:25
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.3:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:27
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.5:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-12 09:11:51
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+

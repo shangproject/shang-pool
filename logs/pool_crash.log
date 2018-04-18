@@ -1,0 +1,866 @@
+2018-04-06 00:31:38
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:31:52
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:49:28
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:50:00
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:50:31
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:51:02
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:51:33
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:52:04
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:52:35
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:53:05
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:53:36
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:54:07
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:54:38
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:55:02
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:55:57
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:56:29
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:57:00
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 00:57:31
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 01:02:40
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 01:03:11
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 01:06:48
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 01:07:19
+Error: Failed to parse block
+    at Object.BlockTemplate.nextBlob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:130:23)
+    at Object.Miner.getJob (/home/shangyin509/node-cryptonote-pool/lib/pool.js:303:41)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:508:28)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+
+2018-04-06 01:11:03
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:03
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:03
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:03
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:11:06
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:33
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:36
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:36
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:36
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:26:36
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:31:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:31:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:31:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:49:16
+TypeError: undefined is not a function
+    at processShare (/home/shangyin509/node-cryptonote-pool/lib/pool.js:435:12)
+    at handleMinerMethod (/home/shangyin509/node-cryptonote-pool/lib/pool.js:569:33)
+    at handleMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:642:13)
+    at Socket.socket.on.on.on.pushMessage (/home/shangyin509/node-cryptonote-pool/lib/pool.js:696:25)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:765:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:427:10)
+    at emitReadable (_stream_readable.js:423:5)
+    at readableAddChunk (_stream_readable.js:166:9)
+
+2018-04-06 01:56:44
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:44
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:44
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:44
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:46
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 01:56:48
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.8:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:43
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 02:03:45
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.6:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:25
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:25
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:25
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-06 08:59:25
+Error: bind EADDRINUSE
+    at errnoException (net.js:905:11)
+    at net.js:1085:30
+    at Object.4:1 (cluster.js:594:5)
+    at handleResponse (cluster.js:171:41)
+    at respond (cluster.js:192:5)
+    at handleMessage (cluster.js:202:5)
+    at process.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+    at child_process.js:396:7
+    at process.handleConversion.net.Native.got (child_process.js:91:7)
+
+2018-04-12 09:11:51
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/shangyin509/node-cryptonote-pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+

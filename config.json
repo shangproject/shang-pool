@@ -1,8 +1,6 @@
 {
     "coin": "shang",
     "symbol": "SHG",
-    "coinUnits": 100000000,
-    "coinDifficultyTarget": 90,
 
     "logging": {
         "files": {
@@ -19,7 +17,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "SFzAetxS7R3BjjgiY2iS24BYwKUCb16Ux3fcy6msGwRLL412KjnQvHGNkfbMqMTBZBZgWPcyJy2Zy6Hh8Jp4eDQe287rrb69W",
+        "poolAddress": "SH2jueFdVWcBTuAFoH5gYXCC7BcongkSG6THPSgiWsU6CHgyXW3bXHnQzLUntWPvTfeg1TY61A4Wac8Dy9usCRmV2c2e6ksjb",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -46,16 +44,12 @@
             }
         ],
         "varDiff": {
-            "minDiff": 10,
-            "maxDiff": 200000,
+            "minDiff": 2,
+            "maxDiff": 100000,
             "targetTime": 100,
             "retargetTime": 30,
             "variancePercent": 30,
             "maxJump": 100
-        },
-        "fixedDiff": {
-            "enabled": true,
-            "addressSeparator": "."
         },
         "shareTrust": {
             "enabled": true,
@@ -72,7 +66,8 @@
         },
         "slushMining": {
             "enabled": false,
-            "weight": 120,
+            "weight": 300,
+            "blockTime": 60,
             "lastBlockCheckRate": 1
         }
     },
@@ -81,11 +76,10 @@
         "enabled": true,
         "interval": 600,
         "maxAddresses": 50,
-        "mixin": 0,
-        "transferFee": 30000000,
-        "minPayment": 1000000000,
-        "maxTransactionAmount": 50000000000,
-        "denomination": 1000000000
+        "mixin": 3,
+        "transferFee": 500000,
+        "minPayment": 500000000,
+        "denomination": 1000000
     },
 
     "blockUnlocker": {
@@ -93,9 +87,8 @@
         "interval": 30,
         "depth": 15,
         "poolFee": 2,
-        "devDonation": 0.1,
-        "coreDevDonation": 0.1,
-        "extraFeaturesDevDonation":0.1
+        "devDonation": 0,
+        "coreDevDonation": 0
     },
 
     "api": {
@@ -105,12 +98,12 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "test"
+        "password": "x"
     },
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 9909
+        "port": 18081
     },
 
     "wallet": {
@@ -120,63 +113,7 @@
 
     "redis": {
         "host": "127.0.0.1",
-        "port": 6379
-    },
-
-    "monitoring": {
-        "daemon": {
-            "checkInterval": 60,
-            "rpcMethod": "getblockcount"
-        },
-        "wallet": {
-            "checkInterval": 60,
-            "rpcMethod": "getbalance"
-        }
-    },
-
-    "charts": {
-        "pool": {
-            "hashrate": {
-                "enabled": true,
-                "updateInterval": 60,
-                "stepInterval": 1800,
-                "maximumPeriod": 86400
-            },
-            "workers": {
-                "enabled": true,
-                "updateInterval": 60,
-                "stepInterval": 1800,
-                "maximumPeriod": 86400
-            },
-            "difficulty": {
-                "enabled": true,
-                "updateInterval": 1800,
-                "stepInterval": 10800,
-                "maximumPeriod": 604800
-            },
-            "price": {
-                "enabled": true,
-                "updateInterval": 1800,
-                "stepInterval": 10800,
-                "maximumPeriod": 604800
-            },
-            "profit": {
-                "enabled": true,
-                "updateInterval": 1800,
-                "stepInterval": 10800,
-                "maximumPeriod": 604800
-            }
-        },
-        "user": {
-            "hashrate": {
-                "enabled": true,
-                "updateInterval": 180,
-                "stepInterval": 1800,
-                "maximumPeriod": 86400
-            },
-            "payments": {
-                "enabled": true
-            }
-        }
+        "port": 6379,
+        "auth": null
     }
 }
